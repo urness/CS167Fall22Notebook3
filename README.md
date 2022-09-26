@@ -28,9 +28,9 @@ For an example of this using the Iris dataset or the Penguin dataset to help sol
     `def mse(actual,predicted):`
     
 2.  Implement the testing and training data. Use the approximately the first 320 rows in the shuffled set as testing data. Feel free to use fewer examples in your testing set -- particularly if it takes a long time to run on your computer (e.g. more than 30 seconds). 
-3. Use the code provided to normalize the data. Test your model using several different values of k and **graphically show the results** using your implementation of mse.
+3. Use the kNN implementation and the other code provided to normalize your data. Test your model using several different values of k and **graphically show the results** using your implementation of **mse**.
 4. Repeat the experiment and **graphically show the results** using r^2.
-5. Describe your findings. What conclusions can you draw about the best number for k for the k-NN algorithm for this data set? Use a markdown cell to explain your conclusions.
+5. Describe your findings. What conclusions can you draw about the best number for k for the k-NN algorithm for this data set? **Explain why.** Use a markdown cell to explain your conclusions.
 
 ## :white_check_mark: Grading: 
 I will update the following rubric with your grade after you have completed the assignment.
