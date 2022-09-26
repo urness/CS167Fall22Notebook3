@@ -1,7 +1,7 @@
 # Notebook #3: Cross Validation with kNN and Wine Ratings
 
 ## The Data: 
-For this notebook, you're going to work with a k-NN function for predicting the 'quality' of white wine 🍷 . The [white wine quality data set] (https://archive.ics.uci.edu/ml/datasets/wine+quality) has a 'quality' colum (a range from 0 to 10) and will serve the target feature we are trying to predict. The data has the following predictor columns:
+For this notebook, you're going to work with a k-NN function for predicting the 'quality' of white wine 🍷 . The [white wine quality data set](https://archive.ics.uci.edu/ml/datasets/wine+quality) has a 'quality' column (a range from 0 to 10) and will serve the target feature we are trying to predict. The data has the following predictor columns:
 
 1 - fixed acidity
 2 - volatile acidity
