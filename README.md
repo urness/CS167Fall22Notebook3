@@ -2,18 +2,17 @@
 
 ## The Data: 
 For this notebook, you're going to work with a k-NN function for predicting the 'quality' of white wine 🍷 . The [white wine quality data set](https://archive.ics.uci.edu/ml/datasets/wine+quality) has a 'quality' column (a range from 0 to 10) and will serve the target feature we are trying to predict. The data has the following predictor columns:
-
-1 - fixed acidity
-2 - volatile acidity
-3 - citric acid
-4 - residual sugar
-5 - chlorides
-6 - free sulfur dioxide
-7 - total sulfur dioxide
-8 - density
-9 - pH
-10 - sulphates
-11 - alcohol
+- fixed acidity
+- volatile acidity
+- citric acid
+- residual sugar
+- chlorides
+- free sulfur dioxide
+- total sulfur dioxide
+- density
+- pH
+- sulphates
+- alcohol
 
 You do not need to know what any of the above means; it is sufficient to know that they are all numeric values that measure some aspect of a wine. The dataset consists of 1599 training examples. The goal of this assignment is to use **cross-validation** in the kNN model to determine the optimal use of k in the algorithm for predicting wine quality. This will required the use of independent training and test subsets of the data. 
 
